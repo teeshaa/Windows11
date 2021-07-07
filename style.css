@@ -1,0 +1,376 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('bg.jpeg');
+    background-size: cover;
+   overflow:hidden;
+    height: 100vh;
+    justify-content: center;
+}
+
+/* Desktop Icons  */
+.edgein img {
+    width: 213vh;
+    height: 100vh;
+}
+
+.chromein2 img{
+    width: 213vh;
+    height: 100vh;
+
+}
+
+.binin img{
+    width: 213vh;
+    height: 100vh;
+
+}
+
+.thispcin img{
+    width: 213vh;
+    height: 100vh;
+
+}
+
+.text{
+    color: white;
+    text-shadow: 3px 3px 3px #000000;
+    padding-left: 12px;
+    padding: -13px;
+    padding-top: 2px;
+   
+    
+}
+
+/* Taskbar  */
+.taskbar{
+    background-color: #f3f3f3;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    bottom: 0%;
+    width: 100%;
+    z-index: 110;
+    width: 98%;
+    width: 183%;
+    
+}
+
+.rightside{
+    
+    display: flex;
+    position: absolute;
+    right: -12vh;
+    height: -1%;
+    padding: 12vh;
+    bottom: -12vh;
+    width: 34vh;
+    justify-content: center;
+}
+
+
+
+/* Taskbar Icons  */
+/* First Icon  */
+.starticon img{
+    width: 41px;
+    height: 39px;
+}
+
+.starticon{
+    bottom: 0%;
+    margin: 86vh;
+    width: -11%;
+    height: 38px;
+    right: 409px;
+    bottom: -615px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110
+    
+}
+
+
+.startmenu{
+    position: absolute;
+    bottom: -655px;
+    width: 100%;
+    text-align: center;
+    border-radius: 25px;
+    transition: all 0.3s ease-in;
+
+}
+
+.startmenu img{
+    border-radius: 8px;
+}
+
+/* Second Icon  */
+.searchicon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 52vh;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+}
+
+
+.searchin{
+    position: absolute;
+    bottom: -655px;
+    width: 105%;
+    height: 91vh;
+    text-align: center;
+    border-radius: 25px;
+    transition: all 0.3s ease-in;
+
+}
+
+.searchin img{
+    border-radius: 10px;
+    width: 89vh;
+    height: 90vh;
+}
+
+/* Third Icon  */
+.thirdicon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 337px;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+
+}
+
+.thirdicon img{
+    width: 43px;
+}
+
+
+.threein img{
+    border-radius: 2px;
+    width: 213vh;
+    height: 104vh;
+
+}
+
+
+.threein{
+    position: absolute;
+    bottom: -800px;
+    width: 100%;
+    height: 103vh;
+    text-align: center;
+    border-radius: 25px;
+    transition: all 0.3s ease-in;
+}
+
+/* Fourth Icon  */
+.fourthicon{
+    margin: 5vh;
+    width: -11%;
+    height: 35px;
+    right: 871px;
+    bottom: -31px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+    
+}
+
+
+.fourin{
+
+    position: absolute;
+    bottom: -655px;
+    width: 38%;
+    height: 92vh;
+    text-align: center;
+    border-radius: 25px;
+    transition: all 0.3s ease-in
+}
+
+.fourin img{
+    border-radius: 15px;
+    width: 81vh;
+    height: 92vh;
+
+}
+/* Fifth Icon */
+.mcin img{
+    border-radius: 2px;
+    width: 213vh;
+    height: 675px;
+
+}
+
+
+.mcicon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 260px;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+
+}
+
+.mcin{
+    position: absolute;
+    bottom: -800px;
+    width: 100%;
+    height: 671px;
+    text-align: center;
+    border-radius: 25px;
+    transition:cubic-bezier(1, 1, 1, 1);
+    
+}
+
+.mcicon img{
+    width: 43px;
+    height: 40px;
+}
+
+
+/* Sixth Icon */
+.folderin{
+    position: absolute;
+    bottom: -855px;
+    width: 26%;
+    height: 674px;
+    right: 158vh;
+    text-align: center;
+    border-radius: 25px;
+    transition:cubic-bezier(1, 1, 1, 1);
+}
+
+.folderin img {
+    width: 386%;
+    height: 94vh;
+}
+
+.foldericon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 221px;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+
+}
+
+.foldericon img{
+    width: 45px;
+    height: 40px;
+
+}
+
+/* Seventh Icon */
+.vscodeicon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 179px;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+
+}
+
+.vscodeicon img{
+    width: 44px;
+    height: 40px;
+}
+
+.vscodein{
+    
+        position: absolute;
+        bottom: -800px;
+        width: 100%;
+        height: 671px;
+        text-align: center;
+        border-radius: 25px;
+        transition:cubic-bezier(1, 1, 1, 1);
+}
+
+.vscodein img{
+    border-radius: 2px;
+    width: 213vh;
+    height: 675px;
+}
+
+
+
+/* Eighth Icon */
+.chromeicon{
+    bottom: 0%;
+    margin: 85vh;
+    width: -11%;
+    height: 6vh;
+    right: 135px;
+    bottom: -85%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 110;
+
+}
+
+.chromein{
+    position: absolute;
+    bottom: -800px;
+    width: 26%;
+    height: 672px;
+    right: 158vh;
+    text-align: center;
+    border-radius: 25px;
+    transition: cubic-bezier(1, 1, 1, 1);
+
+}
+
+.chromein img{
+    width: 214vh;
+    height: 94vh;
+}
+
+
+
+.chromeicon img{
+    width: 50px;
+    height: 43px;
+}
+
+
+
+
+
+
+
+
+
