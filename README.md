@@ -1,3 +1,7 @@
-# Windows11
-Web demo of Windows 11.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gx0ZMHm3k0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Windows 11 
+
+I have made this web demo of windows 11 using HTML, CSS and JavaScript. 
+This demo is all about what exactly windows 11 look like.
+This beautifully designed windows 11 web version was made up with HTML, CSS, and JavaScript. 
+You will get Windows 11 UI experience using this web version. 
+Note that this web version is only made for Desktop or Lapto
