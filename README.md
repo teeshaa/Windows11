@@ -4,3 +4,7 @@ This beautifully designed windows 11 web version was made up with HTML, CSS, and
 This demo is all about what exactly windows 11 look like.
 You will get Windows 11 UI experience using this web version. 
 Note that this web version is only made for Desktop or Laptop.
+
+Clone the repository:
+bash
+git clone https://github.com/teeshaa/Windows11.git
